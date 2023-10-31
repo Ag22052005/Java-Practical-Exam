@@ -31,6 +31,6 @@ public class Q18 {
         c.radius = sc.nextDouble();
         sc.close();
         System.out.println("Area of Circle : " + c.getArea());
-        System.out.println("Area of Circle : " + c.getPerimeter());
+        System.out.println("Perimeter of Circle : " + c.getPerimeter());
     }
 }
